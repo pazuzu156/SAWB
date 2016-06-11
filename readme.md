@@ -20,6 +20,10 @@ There's a menu strip at the top with some useful options
 * Help
 	* About - Opens an about window (Shortcut: Ctrl+?)
 
+## Building
+To build, simply run build.bat, and the application will be under the new bin folder  
+To clean up the binaries, run clean.bat
+
 ## Footer
 &copy; 2016 [Kaleb Klein](http://kalebklein.com) - Refer to license.rtf for stipulations  
 Signed with this [PGP Key](http://bit.ly/mitpgpkey)
